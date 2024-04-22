@@ -1,6 +1,6 @@
 {
   "name": "rn-pg-component-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "custom component",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   "homepage": "https://github.com/PiyushGaurav/rn-pg-component-library#readme",
   "peerDependencies": {
     "react": "18.2.0",
-    "react-native": "0.72.6"
+    "react-native": "0.73.7"
   }
 }
