@@ -1,0 +1,26 @@
+{
+  "name": "rn-pg-component-library",
+  "version": "1.0.0",
+  "description": "custom component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiyushGaurav/rn-pg-component-library.git"
+  },
+  "keywords": [
+    "button"
+  ],
+  "author": "Piyush Gaurav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiyushGaurav/rn-pg-component-library/issues"
+  },
+  "homepage": "https://github.com/PiyushGaurav/rn-pg-component-library#readme",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.6"
+  }
+}
